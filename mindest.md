@@ -1,10 +1,10 @@
 # what is growth mindset ?
-[Growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) is a deep concept which is beyond normal thinknig, it opens up high levels of thinking, to eventully come up with a creative mind
+[Growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) is a deep concept which is beyond normal thinknig, it opens up high levels of thinking, to eventually come up with a creative mind
 
 **growth mindset** is based on developing:
 1. efforts 
 2. creativity 
-3. intelleegence 
+3. intelliegence 
 4. fundamental abilities
 
 
