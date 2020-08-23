@@ -7,8 +7,8 @@
 - add files and and images
 - creatings lists and extra.. 
 
-## markdown is a wonderful tool to express your own style to be redered to browsers all over the world 
+## markdown is a wonderful tool to express your own style to be rendered to browsers all over the world 
 
  there is always more things to be learned, and make sure to never stop *learning!*
  
- # Diana Shafie 
+ ## Diana Shafie 
