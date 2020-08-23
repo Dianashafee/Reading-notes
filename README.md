@@ -12,3 +12,5 @@
  there is always more things to be learned, and make sure to never stop *learning!*
  
   Diana Shafie 
+
+[mindset](https://dianashafee.github.io/Reading-notes/mindest)
