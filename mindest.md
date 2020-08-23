@@ -15,4 +15,4 @@
 
 
 ## In *conclusion* 
- when you embrace [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) , you will be abel to challenge your self to find the best version of yourself, also it will make you get over the obstacles, accept criticisim, and take it with open heart, Nevertheless growth mindset will make you pay more efforts, in oreder to get better results, Moreover you will be inspired out  success of others, and not to be threatened
+ when you embrace [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) , you will be able to challenge your self to find the best version of yourself, also it will make you get over the obstacles, accept criticsim, and take it with open heart, Nevertheless growth mindset will make you pay more efforts, in order to get better results, Moreover you will be inspired out  success of others, and not to be threatened about it. 
