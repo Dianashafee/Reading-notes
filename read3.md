@@ -20,6 +20,6 @@
     3. git push origin master 
 
 
- ### try to think about how great **Git** is !! 
+ ### try to think about how great **Git** is !!
 
  
