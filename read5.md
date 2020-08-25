@@ -20,5 +20,5 @@
 ### now color commads, we have more than one way to do it, we can enter color commands using one of these ways:
       1. RGB (enter value)
       2. Hx  (eneter code)
-      3. name 
+      3. name (enter the color's name)
 

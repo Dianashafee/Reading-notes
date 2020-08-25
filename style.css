@@ -12,16 +12,12 @@ img{
 }
 
 nav ul li{
-    display: line;
-   
-    color:grey
-    
-}
-li{
+    display: inline;
     font-size: 32px ;
+    color:grey ;
     border: 2px ;
     text-align: center;
-
+    
 }
 article p{
     color: black;
