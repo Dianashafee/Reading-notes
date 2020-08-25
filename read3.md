@@ -21,5 +21,3 @@
 
 
  ### try to think about how great **Git** is !! 
-
- 
