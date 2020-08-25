@@ -20,4 +20,10 @@
     3. git push origin master 
 
 
+<<<<<<< HEAD
  ### try to think about how great **Git** is !! 
+=======
+ ### try to think about how great **Git** is !!
+
+ 
+>>>>>>> 0cc4749faaf8c9189715f7a1c92344e4666a563e
